@@ -1,12 +1,13 @@
 # KaibanJS Firecrawl Demo
 
-This project demonstrates the integration of KaibanJS with Firecrawl to create a multi-agent system that summarizes JavaScript news from three popular newsletters.
+This project demonstrates the integration of KaibanJS with [Firecrawl](https://www.firecrawl.dev/) to create a multi-agent system that summarizes JavaScript news from three popular newsletters.
 
 ## Features
 
 - Uses KaibanJS to orchestrate a team of AI agents
 - Integrates Firecrawl for efficient web scraping
 - Summarizes content from JSTER, JavaScript Weekly, and Bytes newsletters
+- Generates a consolidated markdown report on the specified topic of interest
 
 ## Prerequisites
 

@@ -1,0 +1,24 @@
+{
+  "name": "kaibanjs-firecrawl-demo",
+  "version": "1.0.0",
+  "description": "A demo project integrating KaibanJS with Firecrawl to summarize JavaScript news from popular newsletters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kaiban": "kaiban run",
+    "kaiban:deploy": "kaiban deploy"
+  },
+  "keywords": [
+    "kaibanjs",
+    "firecrawl",
+    "ai",
+    "web-scraping",
+    "javascript-news"
+  ],
+  "author": "Kaiban Team",
+  "license": "MIT",
+  "dependencies": {
+    "kaibanjs": "^0.8.1",
+    "zod": "^3.23.8"
+  }
+}
